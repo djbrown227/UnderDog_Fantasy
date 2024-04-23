@@ -31,10 +31,10 @@ driver.get("https://underdogfantasy.com/login")
 # Find the username input field and fill it in with your login username
 wait = WebDriverWait(driver, 10)
 username_field = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, "input[data-testid='email_input'][autocomplete='email']")))
-username_field.send_keys("djbrown227@gmail.com")
+username_field.send_keys("")
 
 password_field = wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, "input[data-testid='password_input'][autocomplete='current-password']")))
-password_field.send_keys("SeanScott227!")
+password_field.send_keys("")
 
 # Find the "Sign in" button and click on it to submit the login form
 sign_in_button = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, "button[data-testid='sign-in-button']")))
