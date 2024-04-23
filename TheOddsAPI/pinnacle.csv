@@ -1,0 +1,177 @@
+,Name,Line_Category,Line,over_under,league,no_vig_prob
+76,Darius Garland,Points,15.5,Over,NBA,0.5751633986928105
+89,Wendell Carter Jr,Points,6.5,Under,NBA,0.5676500508646999
+93,Cole Anthony,Points,5.5,Under,NBA,0.5555155659528522
+172,Jonathan Isaac,Rebounds,6.5,Over,NBA,0.5580326239372371
+224,Caris LeVert,Assists,2.5,Over,NBA,0.5976612249623713
+226,Max Strus,Assists,2.5,Over,NBA,0.6216025947250648
+230,Evan Mobley,Assists,2.5,Over,NBA,0.5757477243172952
+235,Jalen Suggs,Assists,3.5,Under,NBA,0.5867514671091039
+237,Paolo Banchero,Assists,5.5,Under,NBA,0.564108748837049
+303,Donovan Mitchell,player_threes,3.5,Under,NBA,0.5796713794421093
+304,Max Strus,player_threes,1.5,Over,NBA,0.5548317046688382
+307,Darius Garland,player_threes,2.5,Under,NBA,0.5658861733037088
+309,Gary Harris,player_threes,1.5,Under,NBA,0.5856757797458606
+312,Jalen Suggs,player_threes,1.5,Over,NBA,0.5717415842241551
+321,Georges Niang,player_threes,1.5,Under,NBA,0.5723390905188072
+324,Caris LeVert,player_threes,0.5,Over,NBA,0.6389079496495944
+327,Jonathan Isaac,player_threes,1.5,Under,NBA,0.6553083524547909
+375,Jonathan Isaac,Pts + Rebs +Asts,17.5,Under,NBA,0.599271402550091
+380,Paolo Banchero,Pts + Rebs +Asts,35.5,Over,NBA,0.5727636849132176
+386,Cole Anthony,Pts + Rebs +Asts,8.5,Over,NBA,0.5738730940808309
+389,Georges Niang,Pts + Rebs +Asts,9.5,Under,NBA,0.5626591727408449
+446,Kyle Lowry,Points,8.5,Over,NBA,0.5767835550181378
+452,Kelly Oubre Jr,Points,11.5,Over,NBA,0.552733296521259
+458,Josh Hart,Points,13.5,Over,NBA,0.5729699775075789
+461,Jalen Brunson,Points,30.5,Under,NBA,0.5807783756726317
+469,Miles McBride,Points,8.5,Under,NBA,0.557646397977812
+533,Kelly Oubre Jr,Rebounds,5.5,Under,NBA,0.5866892751165748
+537,Isaiah Hartenstein,Rebounds,7.5,Under,NBA,0.6325816713425443
+640,Joel Embiid,player_threes,1.5,Over,NBA,0.5566882639050917
+685,Kyle Lowry,Pts + Rebs +Asts,14.5,Under,NBA,0.5893967755570316
+687,Tobias Harris,Pts + Rebs +Asts,21.5,Under,NBA,0.5856757797458606
+688,Joel Embiid,Pts + Rebs +Asts,45.5,Over,NBA,0.563470066518847
+691,Kelly Oubre Jr,Pts + Rebs +Asts,18.5,Under,NBA,0.5945945945945946
+693,Tyrese Maxey,Pts + Rebs +Asts,34.5,Under,NBA,0.6602402796408534
+695,Bojan Bogdanovic,Pts + Rebs +Asts,13.5,Under,NBA,0.6357787097144827
+698,Jalen Brunson,Pts + Rebs +Asts,42.5,Over,NBA,0.5665108372290693
+817,LeBron James,Assists,8.5,Under,NBA,0.556480811006517
+826,Nikola Jokic,Assists,8.5,Over,NBA,0.5790526264858151
+859,LeBron James,player_threes,1.5,Under,NBA,0.5728618257673587
+862,Austin Reaves,player_threes,1.5,Over,NBA,0.5930447650758416
+867,Kentavious Caldwell-Pope,player_threes,2.5,Under,NBA,0.6541903986981286
+869,Michael Porter Jr,player_threes,2.5,Under,NBA,0.6006005155369232
+870,Jamal Murray,player_threes,3.5,Over,NBA,0.5616715854915041
+912,Anthony Davis,Pts + Rebs +Asts,40.5,Over,NBA,0.5538221528861154
+913,Anthony Davis,Pts + Rebs +Asts,40.5,Under,NBA,0.5555555555555556
+916,Austin Reaves,Pts + Rebs +Asts,22.5,Over,NBA,0.5851272015655576
+922,Michael Porter Jr,Pts + Rebs +Asts,25.5,Over,NBA,0.6241513094083414
+925,Aaron Gordon,Pts + Rebs +Asts,24.5,Under,NBA,0.6123532250281486
+927,Jamal Murray,Pts + Rebs +Asts,36.5,Under,NBA,0.6417922809342389
+929,Nikola Jokic,Pts + Rebs +Asts,50.5,Under,NBA,0.6070433744528452
+931,Christian Braun,Pts + Rebs +Asts,10.5,Under,NBA,0.6482463295269169
+951,Kevin Durant,Points,25.5,Under,NBA,0.6080910240202276
+953,Devin Booker,Points,24.5,Under,NBA,0.6563215996667361
+966,Karl-Anthony Towns,Points,18.5,Over,NBA,0.5977518183821908
+992,Anthony Edwards,Rebounds,5.5,Over,NBA,0.5601952539751582
+994,Karl-Anthony Towns,Rebounds,6.5,Over,NBA,0.5722567873303167
+1019,Anthony Edwards,Assists,5.5,Under,NBA,0.7057178619936616
+1021,Mike Conley,Assists,5.5,Under,NBA,0.8305013517867399
+1023,Karl-Anthony Towns,Assists,3.5,Under,NBA,0.8243578501614731
+1039,Kevin Durant,player_threes,2.5,Under,NBA,0.8367327314126362
+1041,Devin Booker,player_threes,2.5,Under,NBA,0.8545273914277605
+1043,Bradley Beal,player_threes,1.5,Under,NBA,0.8354738520943508
+1045,Anthony Edwards,player_threes,2.5,Under,NBA,0.879094775471886
+1047,Jaden McDaniels,player_threes,1.5,Under,NBA,0.8384775132129789
+1049,Mike Conley,player_threes,2.5,Under,NBA,0.6707105719237434
+1070,Kevin Durant,Pts + Rebs +Asts,35.5,Over,NBA,0.6205101050216221
+1072,Devin Booker,Pts + Rebs +Asts,35.5,Over,NBA,0.6748278500382556
+1074,Bradley Beal,Pts + Rebs +Asts,27.5,Over,NBA,0.6436504998148834
+1076,Jusuf Nurkic,Pts + Rebs +Asts,24.5,Over,NBA,0.6255973200650279
+1078,Rudy Gobert,Pts + Rebs +Asts,28.5,Over,NBA,0.6694074764770704
+1080,Anthony Edwards,Pts + Rebs +Asts,36.5,Over,NBA,0.6258992805755396
+1085,Mike Conley,Pts + Rebs +Asts,20.5,Under,NBA,0.578451428925671
+1093,Aaron Judge,batter_home_runs,0.5,Under,MLB,0.580110497237569
+1095,Gleyber Torres,batter_home_runs,0.5,Under,MLB,0.582129116580454
+1099,Oswaldo Cabrera,batter_home_runs,0.5,Under,MLB,0.5836224843858432
+1105,Abraham Toro,batter_home_runs,0.5,Under,MLB,0.5819209039548022
+1106,Tyler Nevin,batter_home_runs,0.5,Over,MLB,0.5946855291779473
+1108,Esteury Ruiz,batter_home_runs,0.5,Over,MLB,0.5867526377491208
+1114,Ryan Noda,batter_home_runs,0.5,Over,MLB,0.6665448565686094
+1116,Zack Gelof,batter_home_runs,0.5,Over,MLB,0.6984924623115578
+1233,Juan Soto,batter_total_bases,0.5,Over,MLB,0.5878103001111523
+1240,Anthony Volpe,batter_total_bases,1.5,Under,MLB,0.5807783756726317
+1241,Abraham Toro,batter_total_bases,0.5,Over,MLB,0.5920478051022754
+1246,Esteury Ruiz,batter_total_bases,0.5,Under,MLB,0.8572310059780613
+1248,Brent Rooker,batter_total_bases,0.5,Under,MLB,0.7780951503424552
+1250,Shea Langeliers,batter_total_bases,0.5,Under,MLB,0.7738120108634515
+1252,Nick Allen,batter_total_bases,0.5,Under,MLB,0.8724205666146899
+1254,Ryan Noda,batter_total_bases,0.5,Under,MLB,0.8663164485119735
+1256,Max Schuemann,batter_total_bases,0.5,Under,MLB,0.8238199721138362
+1258,Zack Gelof,batter_total_bases,0.5,Under,MLB,0.894658123106886
+1260,Carlos Rodon,pitcher_earned_runs,1.5,Under,MLB,0.842962905813105
+1262,JP Sears,pitcher_earned_runs,2.5,Under,MLB,0.8842106817227932
+1266,JP Sears,pitcher_hits_allowed,4.5,Under,MLB,0.6041290839847665
+1267,Carlos Rodon,pitcher_hits_allowed,4.5,Over,MLB,0.607759991519135
+1288,Bryce Harper,batter_home_runs,0.5,Under,MLB,0.6184965178205653
+1291,Nick Castellanos,batter_home_runs,0.5,Over,MLB,0.5914837786259542
+1293,J.T. Realmuto,batter_home_runs,0.5,Over,MLB,0.5802312688103912
+1296,Jeimer Candelario,batter_home_runs,0.5,Under,MLB,0.5971060953948794
+1298,Trea Turner,batter_home_runs,0.5,Under,MLB,0.5971060953948794
+1410,Luke Maile,batter_total_bases,0.5,Under,MLB,0.5688411604423786
+1412,Nick Castellanos,batter_total_bases,0.5,Under,MLB,0.6019629225736096
+1414,J.T. Realmuto,batter_total_bases,1.5,Under,MLB,0.6356858425823944
+1422,Kyle Schwarber,batter_total_bases,0.5,Under,MLB,0.607863371343068
+1425,Will Benson,batter_total_bases,0.5,Over,MLB,0.5945945945945945
+1430,Brandon Marsh,batter_total_bases,0.5,Under,MLB,0.6746875968191676
+1432,Santiago Espinal,batter_total_bases,0.5,Under,MLB,0.668101901686401
+1444,Ranger Suarez,pitcher_earned_runs,2.5,Under,MLB,0.5766871165644172
+1445,Hunter Greene,pitcher_hits_allowed,4.5,Over,MLB,0.6099915215548164
+1449,Hunter Greene,pitcher_hits_allowed,4.5,Over,MLB,0.6536391294172713
+1451,Ranger Suarez,pitcher_hits_allowed,4.5,Over,MLB,0.660830506920891
+1453,Hunter Greene,pitcher_outs,17.5,Over,MLB,0.6005639097744361
+1467,Hunter Greene,pitcher_strikeouts,7.5,Over,MLB,0.608712169178169
+1469,Ranger Suarez,pitcher_strikeouts,5.5,Over,MLB,0.5694679743235052
+1472,Andrew McCutchen,batter_home_runs,0.5,Under,MLB,0.5553191489361702
+1473,Rowdy Tellez,batter_home_runs,0.5,Over,MLB,0.6021314387211367
+1475,Willy Adames,batter_home_runs,0.5,Over,MLB,0.5708502024291497
+1478,Rhys Hoskins,batter_home_runs,0.5,Under,MLB,0.5970695970695971
+1479,William Contreras,batter_home_runs,0.5,Over,MLB,0.6440327642961036
+1481,Ke'Bryan Hayes,batter_home_runs,0.5,Over,MLB,0.6022468065693432
+1484,Oneil Cruz,batter_home_runs,0.5,Under,MLB,0.6022468065693432
+1488,Jack Suwinski,batter_home_runs,0.5,Under,MLB,0.5946590367191226
+1490,Henry Davis,batter_home_runs,0.5,Under,MLB,0.690954280855517
+1491,Oliver Dunn,batter_home_runs,0.5,Over,MLB,0.6066835895004046
+1494,Jackson Chourio,batter_home_runs,0.5,Under,MLB,0.5727636849132176
+1609,Rhys Hoskins,batter_total_bases,0.5,Over,MLB,0.5639932426997023
+1614,William Contreras,batter_total_bases,1.5,Under,MLB,0.5777746239000852
+1616,Blake Perkins,batter_total_bases,0.5,Under,MLB,0.5538854225751559
+1624,Brice Turang,batter_total_bases,0.5,Under,MLB,0.552675920725347
+1628,Jared Triolo,batter_total_bases,0.5,Under,MLB,0.552675920725347
+1636,Joey Ortiz,batter_total_bases,0.5,Under,MLB,0.5844784714042666
+1638,Jackson Chourio,batter_total_bases,0.5,Under,MLB,0.5795721528378879
+1640,Joe Ross,pitcher_earned_runs,2.5,Under,MLB,0.7822277118874246
+1642,Jared Jones,pitcher_earned_runs,1.5,Under,MLB,0.8162965529437665
+1644,Joe Ross,pitcher_hits_allowed,5.5,Under,MLB,0.8006524102935846
+1646,Jared Jones,pitcher_hits_allowed,4.5,Under,MLB,0.8258892946098227
+1650,Jared Jones,pitcher_hits_allowed,4.5,Under,MLB,0.6106870229007634
+1662,Joe Ross,pitcher_strikeouts,5.5,Under,MLB,0.5713243341846043
+1664,Jared Jones,pitcher_strikeouts,6.5,Under,MLB,0.6053353180821059
+1665,Mark Canha,batter_home_runs,0.5,Over,MLB,0.8727917884098534
+1667,Niko Goodrum,batter_home_runs,0.5,Over,MLB,0.8702389057611248
+1669,Javier Baez,batter_home_runs,0.5,Over,MLB,0.8651268650425694
+1671,Carson Kelly,batter_home_runs,0.5,Over,MLB,0.8847978419226843
+1673,Harold Ramirez,batter_home_runs,0.5,Over,MLB,0.8034747935061236
+1675,Yandy Diaz,batter_home_runs,0.5,Over,MLB,0.8062946138870863
+1677,Rene Pinto,batter_home_runs,0.5,Over,MLB,0.8819260453864762
+1679,Matt Vierling,batter_home_runs,0.5,Over,MLB,0.711649184679441
+1683,Isaac Paredes,batter_home_runs,0.5,Over,MLB,0.6121444657602803
+1689,Spencer Torkelson,batter_home_runs,0.5,Over,MLB,0.5692883895131087
+1814,Carson Kelly,batter_total_bases,0.5,Over,MLB,0.5545148181187431
+1820,Yandy Diaz,batter_total_bases,1.5,Over,MLB,0.5726362416944817
+1825,Matt Vierling,batter_total_bases,1.5,Under,MLB,0.5630568882796436
+1835,Parker Meadows,batter_total_bases,0.5,Under,MLB,0.5971574706920744
+1837,Spencer Torkelson,batter_total_bases,1.5,Under,MLB,0.5664739884393063
+1852,Tarik Skubal,pitcher_hits_allowed,4.5,Over,MLB,0.5626591727408449
+1869,Zack Littell,pitcher_strikeouts,4.5,Under,MLB,0.6888366796093869
+1871,Tarik Skubal,pitcher_strikeouts,6.5,Under,MLB,0.6909466406925139
+1880,Orlando Arcia,batter_home_runs,0.5,Over,MLB,0.5533294709103482
+1885,Nick Gordon,batter_home_runs,0.5,Under,MLB,0.6061253687055125
+1887,Bryan De La Cruz,batter_home_runs,0.5,Under,MLB,0.5713379835129994
+1896,Jazz Chisholm Jr.,batter_home_runs,0.5,Over,MLB,0.5590151934441449
+2002,Travis d'Arnaud,batter_total_bases,0.5,Over,MLB,0.6168835458088382
+2006,Adam Duvall,batter_total_bases,1.5,Over,MLB,0.5948275862068966
+2008,Josh Bell,batter_total_bases,0.5,Over,MLB,0.7463883441315085
+2010,Orlando Arcia,batter_total_bases,1.5,Over,MLB,0.5991932284089405
+2012,Matt Olson,batter_total_bases,0.5,Over,MLB,0.5589507670880199
+2014,Nick Gordon,batter_total_bases,0.5,Over,MLB,0.7101449275362318
+2016,Luis Arraez,batter_total_bases,1.5,Over,MLB,0.6657052171709248
+2018,Bryan De La Cruz,batter_total_bases,1.5,Over,MLB,0.7230843570539148
+2020,Emmanuel Rivera,batter_total_bases,0.5,Over,MLB,0.6876621460764465
+2022,Ronald Acuna Jr.,batter_total_bases,1.5,Over,MLB,0.6199032480995162
+2024,Jesus Sanchez,batter_total_bases,0.5,Over,MLB,0.6789235429595761
+2026,Austin Riley,batter_total_bases,1.5,Over,MLB,0.5971316193399847
+2028,David Fletcher,batter_total_bases,0.5,Over,MLB,0.5864725542400725
+2030,Jazz Chisholm Jr.,batter_total_bases,0.5,Over,MLB,0.729758766311579
+2032,Michael Harris II,batter_total_bases,1.5,Over,MLB,0.6241466840821155
+2041,Ryan Weathers,pitcher_hits_allowed,5.5,Under,MLB,0.5899545970488081
