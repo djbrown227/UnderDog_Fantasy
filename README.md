@@ -1,7 +1,7 @@
 ### Underdog Fantasy Positive Expected Value (EV) Betting Analyzer
 
 #### Overview
-This project aims to provide a tool for identifying Positive Expected Value (EV) bets on Underdog Fantasy, specifically focusing on Pickem games including Rivals and Higher Lower. By comparing the odds offered by Underdog Fantasy against those from sportsbook APIs such as Pinnacle, Draftkings, and Fanduel, users can identify potentially profitable betting opportunities.
+This project aims to provide a tool for identifying Positive Expected Value (EV) bets on Underdog Fantasy, specifically focusing on Pickem games including Rivals and Higher Lower. By comparing the odds offered by Underdog Fantasy against those from sportsbooks from the the-odds-api.com APIs such as Pinnacle, Draftkings, and Fanduel, users can identify potentially profitable betting opportunities.
 
 #### Features
 1. **Data Scraping:** The application scrapes available bets from Underdog Fantasy for both Rivals and Higher Lower games.
